@@ -9,7 +9,7 @@
 
 - Connect to me : **https://www.linkedin.com/in/mauryansshivam/**
 ## **Projects**
--
+-  OTT-Music-Platforms-Analysis-Python ** OTT-Music-Platforms-Analysis-Python**
 
 ## **Skills**
 - SQL
