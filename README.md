@@ -1,8 +1,8 @@
-<h1 align="center"><b>Namaste! Shivam Working on AI and Analytics.</b></h1>
+<h1><b>Namaste! Shivam Working on AI and Analytics.</b></h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ALfii8H2UlPGzQmvxB/giphy.gif" width="200" height="150"/>
 </div>
-<h3 align="center"><b>Connect With Me & See My work.</b></h3>
+<h1><b>Connect With Me & See My work.</b></h1>
 <div align ="center">
 <a href="https://www.kaggle.com/mauryansshivam/Home" >
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/>
@@ -52,5 +52,7 @@
 - Tableau
 
 - HTML & CSS
-
-
+<h1>Tools That I used </h1>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,boostrap,github,mysql,stackoverflow" />
+</p>
