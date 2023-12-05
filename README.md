@@ -54,5 +54,5 @@
 - HTML & CSS
 <h1>Tools That I used </h1>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,boostrap,github,mysql,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,bootstrap,github,mysql,stackoverflow" />
 </p>
