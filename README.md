@@ -31,27 +31,7 @@
   <span>Tableau Viz.|</span>
   <span>Blogs</span>
 </div>
-- Pursuing B.Sc. Maths From Azim Premji University
 
-- Pursuing Google Data Analytics Certificate
-
-- Currently working on SQL, Tableau, Spreadsheets, Python
-
-- See My Work at Kaggle: **https://www.kaggle.com/mauryansshivam**
-- Connect to me : **https://www.linkedin.com/in/mauryansshivam/**
-## **Projects**
--  OTT-Music-Platforms-Analysis-Python ** OTT-Music-Platforms-Analysis-Python**
-
-## **Skills**
-- SQL
-
-- Python
-
-- Spreadsheets
-
-- Tableau
-
-- HTML & CSS
 <h1>Tools That I used </h1>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,bootstrap,github,mysql,stackoverflow" />
