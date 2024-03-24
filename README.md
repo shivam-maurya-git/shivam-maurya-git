@@ -41,3 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=shivam-maurya-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=shivam-maurya-git&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
