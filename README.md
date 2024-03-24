@@ -1,8 +1,10 @@
-<h1><b>Namaste! Shivam Working on AI and Analytics.</b></h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ALfii8H2UlPGzQmvxB/giphy.gif" width="200" height="150"/>
-</div>
-<h1><b>Connect With Me & See My work.</b></h1>
+# About Me :
+
+- नमस्ते, I (Shivam) Working on AI and  Data Analytics.
+- Recently, I also started working on data journalism.
+- Feel free to contact me.
+  
+# Connect With Me & See My work
 <div align ="center">
 <a href="https://www.kaggle.com/mauryansshivam/Home" >
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-64.png"/>
@@ -32,7 +34,7 @@
   <span>Blogs</span>
 </div>
 
-<h1>Tools That I used </h1>
+# Tools That I used
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,bootstrap,github,mysql,stackoverflow" />
 </p>
