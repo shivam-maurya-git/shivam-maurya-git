@@ -7,7 +7,7 @@
   
 # Connect With Me & See My work
 - [Kaggle Data Projects](https://www.kaggle.com/mauryansshivam/Home)
-- [Linkedin](https://www.linkedin.com/in/mauryansshivam/")
+- [Linkedin](https://www.linkedin.com/in/mauryansshivam/)
 - [Medium](https://medium.com/@shivammaurya945093)
 - [Tableau Viz](https://public.tableau.com/app/profile/shivam.maurya.tableau)
 # Tools That I used
