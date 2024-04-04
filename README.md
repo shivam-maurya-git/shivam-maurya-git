@@ -3,7 +3,6 @@
 - नमस्ते, I (Shivam) Working on AI and  Data Analytics.
 - Recently, I also started working on data journalism.
 - Feel free to contact me.
-- [Resume](https://drive.google.com/file/d/1MS97h123eH3HtBxVvtstAVHu9JK1EzDR/view?usp=sharing)
   
 # Connect With Me & See My work
 - [Kaggle Data Projects](https://www.kaggle.com/mauryansshivam/Home)
