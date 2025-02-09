@@ -1,7 +1,6 @@
 # About Me :
 
 - नमस्ते, I (Shivam) Working on AI and  Data Analytics.
-- Recently, I also started working on data journalism.
 - Feel free to contact me.
   
 # Connect With Me & See My work
@@ -9,6 +8,7 @@
 - [Linkedin](https://www.linkedin.com/in/mauryansshivam/)
 - [Medium](https://medium.com/@shivammaurya945093)
 - [Tableau Viz](https://public.tableau.com/app/profile/shivam.maurya.tableau)
+- [Open Data Exchange](https://opendata.stackexchange.com/users/33502/shivam-maurya-1729)
 # Tools That I used
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,py,html,css,js,vscode,bootstrap,github,mysql,stackoverflow" />
