@@ -21,4 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 
+- [Curated a list of media websites where you can Drop a News Tip](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRFKbJUtFQ55uB5NSaIgxUwQM8qRGMwLyybDWhqmqbCba_zaeDo5L7i3yJv8vb_Q_VqRvIwOcRKDeJ/pubhtml)
+
 
