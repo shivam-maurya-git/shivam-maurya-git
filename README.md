@@ -33,8 +33,6 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shivam-maurya-git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![](https://raw.githubusercontent.com/shivam-maurya-git/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/shivam-maurya-git/github-stats-transparent/output/generated/languages.svg)
 
